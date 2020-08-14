@@ -1,0 +1,25 @@
+{
+    "name": "express-router",
+    "version": "1.0.0",
+    "description": "Implementing an Express Router to support REST API for different endpoints.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/malavikasmenon/express-router.git"
+    },
+    "author": "Malavika S Menon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/malavikasmenon/express-router/issues"
+    },
+    "homepage": "https://github.com/malavikasmenon/express-router#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "morgan": "^1.9.0"
+    }
+}
